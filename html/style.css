@@ -66,3 +66,31 @@
     }
 }
 /* top-navbar */
+
+/* navbar */
+#navbar{
+    background-color: rgb(67 0 86);
+}
+#logo{
+    margin-left: 15px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+#logo span{
+    color: #ffc800;
+}
+#logo #span1{
+    color: #ffc800;
+}
+.navbar-nav{
+    margin-left: 20px;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.nav-item .nav-link{
+    color: #fff;
+}
+/* navbar */
