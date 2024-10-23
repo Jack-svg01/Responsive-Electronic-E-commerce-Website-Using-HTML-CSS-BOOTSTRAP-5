@@ -3,14 +3,18 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
-    font-family: "Merriweather", serif;
+    font-family: 'Merriweather', serif;
 }
-/* top-navbar */
+/* top navbar */
 .top-navbar{
     display: flex;
     justify-content: space-between;
 }
 .top-navbar p{
+    margin-top: 13px;
+    margin-left: 15px;
+}
+.top-navbar .icons{
     margin-top: 13px;
     margin-right: 15px;
 }
@@ -20,7 +24,7 @@
     margin-left: 10px;
 }
 .top-navbar a img{
-   margin-bottom: 3px;
+    margin-bottom: 3px;
 }
 .top-navbar a:hover{
     color: black;
@@ -61,3 +65,4 @@
         margin-top: 20px;
     }
 }
+/* top-navbar */
